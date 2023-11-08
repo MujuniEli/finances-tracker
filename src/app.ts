@@ -1,3 +1,5 @@
+import { Invoice } from "./classes/Invoice";
+
 
 const form = document.querySelector('.new-item-form') as HTMLFormElement
 
