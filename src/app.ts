@@ -1,4 +1,4 @@
-import { Invoice } from "./classes/Invoice";
+import { Invoice } from "./classes/Invoice.js";
 
 
 const form = document.querySelector('.new-item-form') as HTMLFormElement
